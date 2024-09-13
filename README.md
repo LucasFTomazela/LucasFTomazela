@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Lucas Tomazela and I'm a developer from Brazil.</h2>
 
 - 👨‍💻 I specialize in **JavaScript**, **CSS**, **HTML**, and **Angular**.
-- 🌱 I’m currently diving deeper into **Artificial Intelligence** and **Machine Learning**.
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/seu-perfil) 
   - [Instagram](https://www.instagram.com/seu-perfil)
