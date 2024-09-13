@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! My name is Lucas Tomazela and I'm a developer from Brazil.</h2>
 
+- 🔭 I’m currently working on web development projects with a focus on building user-friendly and responsive web applications.
+- 🌱 I’m passionate about learning and exploring new technologies, especially in JavaScript frameworks and libraries.
+
 <h4 align="center">💻 My main skills include</h4>
 
 ###
